@@ -15,7 +15,7 @@ Outdoor Fitness Tracker App
 - Walking
 
 
-**2. Features & features to implement:**
+**2. Features:**
 - Log workouts with:
     - Location
     - Distance
@@ -27,7 +27,7 @@ Outdoor Fitness Tracker App
 - See my workouts on a map.
 - See all my workouts when I leave the app and come back later.
 
-**~To implement:**
+**~Implementation:**
 - Maps API where user clicks to add a new workout (coordinates).
 - Geolocation feature - to display map at current location (user-interactive).
 - Form to input distance, time, pace, steps/min. 
