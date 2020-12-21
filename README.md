@@ -6,7 +6,7 @@ Outdoor Fitness Tracker App
 
 https://cardioapp.netlify.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5efa1f20-c5bc-472e-84ef-098dc2580eea/deploy-status)](https://app.netlify.com/sites/cardioapp/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1404a67d-f3eb-4843-b9d3-93f0c7c6a077/deploy-status)](https://app.netlify.com/sites/cardioapp/deploys)
 
 **1. User stories:**
 
