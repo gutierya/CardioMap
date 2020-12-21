@@ -27,15 +27,15 @@ Types of exercise logged:
 - See my workouts on a map.
 - See all my workouts when I leave the app and come back later.
 
-~To implement~
--> Maps API where user clicks to add a new workout (coordinates).
--> Geolocation feature - to display map at current location (user-interactive).
--> Form to input distance, time, pace, steps/min. 
--> Display all workouts in a list.
--> Display all workouts on a map.
--> Store workout data in browser (using local storage API).
--> On page load, read the saved data from local storage and display.
--> Move map to workout location on click.
+~To implement:
+- Maps API where user clicks to add a new workout (coordinates).
+- Geolocation feature - to display map at current location (user-interactive).
+- Form to input distance, time, pace, steps/min. 
+- Display all workouts in a list.
+- Display all workouts on a map.
+- Store workout data in browser (using local storage API).
+- On page load, read the saved data from local storage and display.
+- Move map to workout location on click.
 
 
 
