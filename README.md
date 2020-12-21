@@ -3,6 +3,11 @@ Outdoor Fitness Tracker App
 
 **App Inspiration:** Wanting an app where I can track my fitness activity outdoors during this pandemic to make sure I am getting adequate healthy exercise.
 
+
+https://cardioapp.netlify.app/
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5efa1f20-c5bc-472e-84ef-098dc2580eea/deploy-status)](https://app.netlify.com/sites/cardioapp/deploys)
+
 **1. User stories:**
 
 - As a user, I want a visual representation tracker of my outdoor workouts so that I benefit from seeing and thereby building my progress.
